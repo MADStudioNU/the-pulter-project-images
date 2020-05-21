@@ -7,7 +7,7 @@
 		"uuidString": "40C4CD51-8815-4BBB-9606-62D21711488E"
 		}
 	],
-"creatorBuild": "32001",
+"creatorBuild": "32147",
 "files": {
 	"/h101d.jpg": {
 		"ft": 16384,
@@ -3441,6 +3441,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/h76d.jpg": {
+		"ft": 16384,
+		"iS": 157940,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/h76d.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/h76l.jpg": {
+		"ft": 16384,
+		"iS": 98014,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/h76l.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/h76og.jpg": {
+		"ft": 16384,
+		"iS": 483914,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/h76og.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/h76p.jpg": {
+		"ft": 16384,
+		"iS": 186073,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/h76p.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/h77d.jpg": {
 		"ft": 16384,
 		"iS": 188088,
@@ -6150,13 +6194,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
+		"compilerType": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,
