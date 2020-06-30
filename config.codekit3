@@ -7,7 +7,7 @@
 		"uuidString": "40C4CD51-8815-4BBB-9606-62D21711488E"
 		}
 	],
-"creatorBuild": "32147",
+"creatorBuild": "32186",
 "files": {
 	"/h101d.jpg": {
 		"ft": 16384,
@@ -227,6 +227,50 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/h108d.jpg": {
+		"ft": 16384,
+		"iS": 113969,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/h108d.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/h108l.jpg": {
+		"ft": 16384,
+		"iS": 62660,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/h108l.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/h108og.jpg": {
+		"ft": 16384,
+		"iS": 346821,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/h108og.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/h108p.jpg": {
+		"ft": 16384,
+		"iS": 103183,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/h108p.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/h10d.jpg": {
@@ -4714,6 +4758,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-case-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"default-param-last": {
 			"active": 0,
 			"optionString": ""
@@ -5126,6 +5174,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-loss-of-precision": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-magic-numbers": {
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
@@ -5241,6 +5293,10 @@
 		"no-regex-spaces": {
 			"active": 1,
 			"optionString": ""
+			},
+		"no-restricted-exports": {
+			"active": 0,
+			"optionString": "{'restrictedNamedExports': []}"
 			},
 		"no-restricted-globals": {
 			"active": 0,
@@ -5385,6 +5441,10 @@
 		"no-use-before-define": {
 			"active": 0,
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-backreference": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-useless-call": {
 			"active": 0,
